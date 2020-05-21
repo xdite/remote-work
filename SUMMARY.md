@@ -6,5 +6,5 @@
 * [Part 2: 接力篇](02.md)
 * [Part 3: 会议篇](03.md)
 * [Part 4: 进度篇](04.md)
-* [Part 5: 管理/招聘篇](05.md) TODO
+* [Part 5: 精力管理篇](05.md) 
 * [Part 6: 法律篇](06.md) TODO
