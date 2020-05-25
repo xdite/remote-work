@@ -1,7 +1,8 @@
 # Table of contents
 
-* [前言](00.md)
+* [Introduction](README.md)
 * [这本书会写什么](00-1.md)
+* [前言](00.md)
 * [Part 1: 沟通技巧篇](01.md)
 * [Part 2: 接力篇](02.md)
 * [Part 3: 会议篇](03.md)
@@ -11,4 +12,5 @@
 * [Part 7: 团队篇](07.md)
 * [Part 8: 相关资源](08.md)
 * [一般团队如何导入 Remote](09.md)
-* [附录：工具篇](tools.md) TODO
+* [附录：工具篇 TODO](fu-lu-gong-ju-pian-todo.md)
+
