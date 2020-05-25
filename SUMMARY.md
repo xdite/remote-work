@@ -10,4 +10,5 @@
 * [Part 6: 资安篇](06.md)
 * [Part 7: 团队篇](07.md)
 * [Part 8: 相关资源](08.md)
-* [附录：工具篇](toosls.md) TODO
+* [一般团队如何导入 Remote](09.md)
+* [附录：工具篇](tools.md) TODO
