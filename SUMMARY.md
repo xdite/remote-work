@@ -10,7 +10,6 @@
 * [Part 5: 精力管理篇](05.md)
 * [Part 6: 资安篇](06.md)
 * [Part 7: 团队篇](07.md)
-* [Part 8: 相关资源](08.md)
-* [一般团队如何导入 Remote](09.md)
-* [附录：工具篇 TODO](fu-lu-gong-ju-pian-todo.md)
-
+* [Part 8: 相关资源](09.md)
+* [一般团队如何导入 Remote](10.md)
+* [附录：工具篇](tools.md) TODO
