@@ -8,12 +8,13 @@
 
 ## Redmine 票状态代表的意义：
 
-* New - 还没开始做的票
-* Implementing - 正在做的票
-* Responded - 正在讨论中的票
-* Code review - 做完正在等待 code review 的票
-* Solved - code review 完准备要 release 的票 或是 已经 release 了但有留下注解给做票的人
-* Done - 已经完成（release）的票
+* New - 还没开始做的票。
+* Implementing - 正在做的票。
+* Responded - 正在讨论中的票。
+* Code review - 做完正在等待 code review 的票。
+* Solved - code review 完准备要 release 的票 或是 已经 release 了但有留下注解给做票的人。
+* Done & Close - 已经完成的票。
+* Wontfix - 不需要解决的问题。
 
 ![](https://d.pr/i/I3VJkV+)
 
