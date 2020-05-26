@@ -13,3 +13,51 @@
 会议中主持人根据会议重点逐一讨论，并统整结论。
 
 会议后将结论发给与会人。
+
+
+### 管理外包厂商
+
+如何沟通需求
+
+#### User Story - 初步规划
+
+1. 根据具体需求，撰写 user story
+2. 提交 user story 到外包厂商
+3. 双方经过进一步沟通之后达成一致
+4. Scope change 的情况（或增加，或减少，或更改）
+  - 需更新 user story，与旧版本的 user story 做出区分
+  - 提交更新的 user story 给外包厂商
+  - 双方经过进一步沟通之后达成一致
+
+#### Trello Board - 项目管理
+
+在 trello board 中要至少反映出以下主要开发流程阶段（可以通过添加 list 和 label 的方式）：
+
+1. TODO / Backlog
+  - 一般情况下是存放 user story 主条目，可以按优先级从上到下排序
+  - 可以展示目前还有多少未完成的 user story
+2. Next Releases
+  - 安排好的未来 1~3 个版本的 release 内容
+  - 可以反映未来一段时间内的开发计划
+3. Doing
+  - 外包开发人员负责把某些任务标记为 doing
+  - 可以了解外包开发人员的当前进度
+4. Acceptance
+  - 外包开发人员完成某个任务之后，把该任务标记为 Acceptance
+  - 可以反映当前可供我们测试的功能有哪些
+  - 安卓提供测试版本 App 的方式时直接附加 apk 文件
+  - iOS 提供 github 的代码，由我们自己编译或打包运行测试
+5. Done / Released
+  - 表示已经通过测试，由我们负责将通过测试的功能集中到一起 release 给用户
+  - 可以反映已经完成的部分，以及每一版本的 release 内容
+
+#### 汇报进度的方式
+
+1. Daily standup meeting + weekly demo
+  - 可以定期获知外包团队当前的进度，以及接下来要做的任务，和遇到的问题及预计解决方式
+  - 确保开发进度没有被阻挡，按照预期顺利进行
+2. Trello board
+  - 可以在 trello 上随时进行沟通，包括技术问题，测试反馈
+  - 可以反映出当前的开发进度
+3. Slack channel / Telegram / 微信
+  - 一般用作即时通讯处理相对紧急的事件
