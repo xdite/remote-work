@@ -49,6 +49,7 @@
 
 开发团队的 Roadmap目前采用 trello 方式管理，分为：Web Roadmap 以及 Api & Client Roadmap。
 
+![](https://d.pr/i/kffUFp+)
 
 #### 谁负责更新 Roadmap（Who）
 
