@@ -20,7 +20,7 @@
   - [指挥官会议](extra-05.md)
   - [如何与第三方厂商有效率的开会](extra-06.md)
   - [估算产品开发时间](extra-07.md)
-  - [如何写sop & 操作性文档模板](extra-08.md)
+  - [如何写SOP & 操作性文档模板](extra-08.md)
   - [新功能发布如何同步全公司](extra-09.md)
   - [周会流程](extra-10.md)
   - [开票解票 Workflow](extra-11.md)
