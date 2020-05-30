@@ -11,6 +11,7 @@
 * [Part 7: 团队篇](07.md)
 * [Part 8: 相关资源](08.md)
 * [一般团队如何导入 Remote](09.md)
-* [附录：工具篇](tools.md) TODO
+* [附录：工具篇](https://github.com/xdite/remote-work/tree/e69758ca879ab3d502aea12f575d91f0d56bc711/tools.md) TODO
 
 本书采开放源码形式公开，反馈以及揪错请洽：[https://github.com/xdite/remote-work](https://github.com/xdite/remote-work)
+
