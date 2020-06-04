@@ -12,6 +12,7 @@
 * [Part 7: 团队篇](07.md)
 * [Part 8: 相关资源](08.md)
 * [一般团队如何导入 Remote](09.md)
+* [工具箱](toolbox.md)
 * [附录](fu-lu/README.md)
   * [如何开回顾会议](fu-lu/extra-01.md)
   * [产品开发的协作原则](fu-lu/extra-02.md)
