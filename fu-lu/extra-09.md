@@ -80,7 +80,7 @@
 * 加上正确的 Label:  根据 client 分类，如 「iOS-OTC」
 * 在详情里添加具体 feature/bug/优化内容
 * 估算预计开发的时间，如果无法估算就设定为一个 Sprint \(一周\)
-* 在 Roadmap 的描述中贴上主要的 Readmine 连结
+* 在 Roadmap 的描述中贴上主要的 Redmine 连结
 * Assign 成为为自己，代表你是负责人
 * 这样就完成了
 
@@ -90,7 +90,6 @@
 * 加上正确的 Label：根据周分类，如「五十三周」
 * 在详情中添加具体 feature/bug/优化内容
 * 估算预计开发的时间，如果无法估算就设定为一周
-* 在 Roadmap 的描述中贴上主要的 Readmine 连结
+* 在 Roadmap 的描述中贴上主要的 Redmine 连结
 * Assign 成为为自己，代表你是负责人
 * 这样就完成了
-

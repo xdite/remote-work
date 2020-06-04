@@ -71,11 +71,10 @@ PR title 应该写清票号和具体解决的问题，例如 `t26410 - 完成新
 
 #### Don‘t merge:
 
-若不希望PR 马上被 merge，贴上 "Don‘t merge" 的 label
+若不希望 PR 马上被 merge，贴上 "Don‘t merge" 的 label
 
 #### App Impact：
 
-如果这个 pr 会对 app 产生影响，请加上App Impact
+如果这个 PR 会对 app 产生影响，请加上App Impact
 
 `zapier-bug-fixes'，`zapier-features`，`zapier-improvements`: 这三个标签分辨是：bug修复，新功能，原有功能改进。 若 PR 加上`zapier-bug-fixes'， `zapier-features`，`zapier-improvements` 相关 label，则这条 PR 会被加入到 google docs，以方便运营人员整理周报。
-
