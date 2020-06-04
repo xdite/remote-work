@@ -12,7 +12,7 @@
 * [Part 7: 团队篇](07.md)
 * [Part 8: 相关资源](08.md)
 * [一般团队如何导入 Remote](09.md)
-* [附录：](fu-lu/README.md)
+* [附录](fu-lu/README.md)
   * [如何开回顾会议](fu-lu/extra-01.md)
   * [产品开发的协作原则](fu-lu/extra-02.md)
   * [如何处理产品开发过程中产生的分歧](fu-lu/extra-03.md)
@@ -26,4 +26,3 @@
   * [开票解票 Workflow](fu-lu/extra-11.md)
   * [A 级招聘法](fu-lu/extra-12.md)
   * [客服与技术团队协作流程](fu-lu/extra-13.md)
-
