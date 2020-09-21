@@ -1,5 +1,11 @@
 # Table of contents
 
+本书於 2020/09/26 上市，
+
+实体书购书连结：https://www.books.com.tw/products/0010870648
+
+实体书内容为网上版重新改写。你可以视此版本为 Preview 版本。
+
 * [Introduction](README.md)
 * [这本书会写什么](00-1.md)
 * [前言](00.md)
